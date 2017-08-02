@@ -1,1 +1,1 @@
-# testscripts
+# These are just test scripts
